@@ -1,0 +1,3 @@
+.venv/
+spotify_top_1000_tracks.csv
+*.csv
